@@ -1,0 +1,14 @@
+body {
+    background-color: #fff1da;
+    font-family: "Fira Code";
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+a:link {
+    color: rgb(255, 157, 0);
+}
+li {
+    color: rgb(175, 175, 175);
+}
